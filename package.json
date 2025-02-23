@@ -1,9 +1,9 @@
 {
   "name": "arkalialauncher",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "productName": "Arkalia Launcher",
   "description": "Rejoindre le dernier bastion de l'humanité",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/) Fork pour Arkalia",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) Éditer pour Arkalia",
   "license": "UNLICENSED",
   "homepage": "https://github.com/Sankah23/Arkalia",
   "bugs": {
