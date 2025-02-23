@@ -1,20 +1,20 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Helios Launcher"
+title = "Arkalia Launcher"
 
 [ejs.landing]
-mediaGitHubURL = "https://github.com/dscalzi/HeliosLauncher"
+mediaGitHubURL = "https://github.com/Sankah23/Arkalia"
 mediaTwitterURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
-mediaDiscordURL = "https://discord.gg/zNWUXdt"
+mediaDiscordURL = "https://discord.gg/fFBTTfpQNZ"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
-supportLink = "https://github.com/dscalZi/HeliosLauncher/issues"
+sourceGithubLink = "https://github.com/Sankah23/Arkalia"
+supportLink = "https://github.com/Sankah23/Arkalia/issues"
 
 [ejs.welcome]
-welcomeHeader = "WELCOME TO WESTEROSCRAFT"
-welcomeDescription = "Our mission is to recreate the universe imagined by author George RR Martin in his fantasy series, A Song of Ice and Fire.  Through the collaborative effort of thousands of community members, we have sought to create Westeros as accurately and precisely as possible within Minecraft.  The world we are creating is yours to explore.  Journey from Dorne to Castle Black, and if you aren’t afraid, beyond the Wall itself, but best not delay.  As the words of House Stark ominously warn: Winter is Coming."
-welcomeDescCTA = "You are just a few clicks away from Westeros."
+welcomeHeader = "BIENVENUE SUR ARKALIA"
+welcomeDescription = "La Cité vous protège. Du moins, c’est ce qu’ils disent. À l’extérieur, la pluie est mortelle, les infectés rôdent, et les pillards guettent. Pourtant, certains survivants affirment que la vérité est ailleurs. Pourquoi des citoyens disparaissent-ils sans laisser de traces ? Que cache la Milice sous la ville ? Rebelles ou obéissants, chacun devra choisir son camp. Mais une chose est sûre : la Cité ...."
+welcomeDescCTA = "Vous n'êtes qu'à quelques clics d'Arkalia."
